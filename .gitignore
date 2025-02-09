@@ -1,0 +1,5 @@
+node_modules
+.vscode
+views
+package-lock.json
+.env
