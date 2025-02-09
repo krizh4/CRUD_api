@@ -3,7 +3,7 @@ this is a api for simple create read update and delete purpose
 in here you can create users and view them(deleting and updating isn't added for users)
 and you can create posts. for posts you can do simple CRUD operations.
 
-postgreSQL used for the database. before test create necessary database tables by running below commands
+[postgreSQL](https://www.postgresql.org/docs/) used for the database. before test create necessary database tables by running below commands
 
 The users table
 ```
